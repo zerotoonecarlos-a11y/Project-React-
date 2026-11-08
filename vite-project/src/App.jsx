@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="w-screen h-screen bg-slate-500 flex justify-center p-6">
         <div className="w[500px]">
-          <h1 className="text-red-500 text-xl">Geranciador de Tarefas</h1>
+          <h1 className="text-slate-100 text-3xl font-bold text-center">Geranciador de Tarefas</h1>
           <Task />
           <AddTask />
         </div>
